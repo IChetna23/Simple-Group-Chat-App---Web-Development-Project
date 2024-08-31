@@ -1,0 +1,14 @@
+// web sockets - 2 way connection - immediate updates
+// database - request server for update - time consuming - waste requests
+
+// 2 types of server - client server - live server - independent website connect with server 
+// node server - listen all events from clients 
+
+// frontend 
+
+// node server - npm init 
+// npm i socket.io
+// index.js 
+
+//connect in head of html
+// client.js
